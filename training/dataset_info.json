@@ -1,0 +1,10 @@
+{
+    "gennm-dirty": {
+        "hf_hub_url": "Alex-xu/gennm-dirty-dedup",
+        "columns": {
+          "prompt": "prompt",
+          "query": "query",
+          "response": "response"      
+        }
+      }
+}

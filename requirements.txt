@@ -1,0 +1,12 @@
+networkx
+vllm==0.5.3.post1
+cxxfilt
+datasets==2.14.6
+tqdm
+nltk==3.8.1
+tree-sitter
+tree-sitter-cpp
+sentencepiece
+pandas==2.0.3
+numpy==1.24.4
+fuzzywuzzy
