@@ -41,8 +41,7 @@ Optionally, the reviewers can observe similar results to the paper by running th
 
 ## Overview of the Artifact
 
-Please download the data package from the following link:
-XXXXXXX
+Please download the data package from the following [Google Drive Link](https://drive.google.com/file/d/1XO7InFCgAowZacu3ZAhh2JIzBDmMsmgf).
 
 And unzip the data package under the root directory of the artifact repo.
 
