@@ -2,6 +2,8 @@
 
 # Artifact Evaluation for GenNm
 
+[![DOI](https://zenodo.org/badge/867965814.svg)](https://doi.org/10.5281/zenodo.14220041)
+
 This repository contains the artifact evaluation for our NDSS submission titled "Unleashing the Power of Generative Model in Recovering Variable Names from Stripped Binary". 
 
 GenNm proposes a large language model based reverse engineering technique that recovers variable names from stripped binaries.
