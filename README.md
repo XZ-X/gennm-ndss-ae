@@ -2,7 +2,7 @@
 
 # Artifact Evaluation for GenNm
 
-This repository contains the artifact evaluation for the GenNm paper.
+This repository contains the artifact evaluation for our NDSS submission titled "Unleashing the Power of Generative Model in Recovering Variable Names from Stripped Binary". 
 
 GenNm proposes a large language model based reverse engineering technique that recovers variable names from stripped binaries.
 Specifically, it takes as input the decompiled code of a stripped bianry program.
@@ -83,6 +83,10 @@ data/
 
 `data/` contains the data package for the artifact evaluation.
 
+## Supported Environments
+
+Ubuntu >=20.04. To run inference, you may need GPUs with at least 24GB VRAMs in total.
+To run training, it is recommended to have GPUs with 96 GB VRAMs.
 
 ## Configuration
 
