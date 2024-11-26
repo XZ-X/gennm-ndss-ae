@@ -46,6 +46,10 @@ The training scripts of GenNm are under the `training/` directory.
 We use [llama-factory](https://github.com/hiyouga/LLaMA-Factory) to train our models.
 We did not include the code of llama-factory in our artifact. One can simply clone llama-factory from their repository.
 
+**Please install the dependency of llama-factory following the `README` of llama-factory.** 
+To use our training script directly, please make sure you have access to the base model [CodeGemma](https://huggingface.co/google/codegemma-2b). 
+After that, please use `huggingface-cli login` to login to your huggingface account before running the script.
+
 We include all the necessary scripts to train GenNm with llama-factory.
 `training/dataset_info.json` defines our dataset configurations, `training/deep_speed_config.json` how we use deepspeed to facilitate training,
 and `training/train-gennm.sh` is the script to train GenNm.
