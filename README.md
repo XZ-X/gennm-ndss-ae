@@ -284,3 +284,19 @@ proj_in_train
 False                 0.386675      0.352520           0.286263        0.262375
 True                  0.516616      0.498127           0.400037        0.390214
 ```
+
+## Citation
+
+Please cite our paper with the following BibTeX.
+
+```text
+@misc{xu2024gennm,
+      title={Symbol Preference Aware Generative Models for Recovering Variable Names from Stripped Binary}, 
+      author={Xiangzhe Xu and Zhuo Zhang and Zian Su and Ziyang Huang and Shiwei Feng and Yapeng Ye and Nan Jiang and Danning Xie and Siyuan Cheng and Lin Tan and Xiangyu Zhang},
+      year={2024},
+      eprint={2306.02546},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2306.02546}, 
+}
+```
